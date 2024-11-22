@@ -1,95 +1,53 @@
-# theNettko
+<!--![theNettko](./docs/banner-website.png)-->
 
-![theNettko](./docs/theNettko-12-09-24-page.png)
+# Bem-vindo 
+**theNettko**! Este é o projeto base do principal que está sendo desenvolvido, mas ele está privado. é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações. O **theNettko** foi criado em 2015 como um canal do YouTube, e agora expandindo o conteúdo para incluir um Website interativo que oferece uma experiência completa.
 
-Bem-vindo ao **theNettko**! Este projeto é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações relacionadas a games e programação. O **theNettko** foi criado em 2015 como um canal do YouTube, e agora estamos expandindo nosso conteúdo para incluir um site interativo que oferece uma experiência completa para entusiastas de jogos e programação.
+# Sobre Este Repositório
+Este repositório serve como a base pública para demonstrar a estrutura e os conceitos fundamentais do projeto principal em desenvolvimento/Frontend. Embora o repositório privado contenha o desenvolvimento completo e outras funcionalidades avançadas, esta versão pública foi criada para:
+
+- Apresentar a arquitetura base.
+- Compartilhar ideias iniciais ou boas práticas de desenvolvimento.
+- Permitir que outros desenvolvedores se inspirem ou utilizem partes do código em seus próprios projetos.
+  
+Por motivos de confidencialidade, o desenvolvimento completo e detalhes adicionais permanecem em um repositório privado.
 
 ## Funcionalidades
 
 - **Vídeos de Games**: Exiba vídeos recentes do YouTube relacionados ao canal de jogos.
-- **Notícias sobre Games**: Mantenha-se atualizado com as últimas notícias e novidades no mundo dos games.
-- **Podcasts sobre Games e Programação**: Ouça podcasts informativos sobre games e programação para expandir seu conhecimento e ficar por dentro das tendências do setor.
-- **Sistema de Membros**: Usuários cadastrados na plataforma podem receber notificações de novidades e atualizações.
-- **Sistema de Login**: Gerencie o acesso dos usuários com funcionalidades de login e autenticação.
-
-## Tecnologias Utilizadas
-
-- **Frontend/Backend**: React
-<!-- - **API**: YouTube Data API v3 -->
-- **Estilização**: CSS
+Channel: https://www.youtube.com/@Nettko
 
 ## Requisitos
 
 - **Node.js**: Versão 14.x ou superior
 - **NPM**: Versão 6.x ou superior
 
-<!-- ## Configuração do Ambiente
-
-Para configurar o projeto localmente, siga as instruções abaixo:
-
-## Configuração
-
-Para configurar o projeto, você precisará de um arquivo `.env` com as seguintes variáveis de ambiente:
-
-1. **Crie um arquivo `.env` na raiz do projeto.**
-2. **Adicione as seguintes variáveis de ambiente ao arquivo `.env`:**
-
-   ```plaintext
-   REACT_APP_YOUTUBE_API_KEY=YOUR_API_KEY
-   REACT_APP_YOUTUBE_CHANNEL_ID=YOUR_CHANNEL_ID
-   ```
-
-### 1. Clonar o Repositório
-
-Clone este repositório para o seu ambiente local:
-
-```bash
-git clone https://github.com/seu-usuario/the-nettko.git
-cd the-nettko
-```
-
-### 2. Configurar Variáveis de Ambiente
-
-Para configurar o projeto, você precisará de um arquivo .env com as seguintes variáveis de ambiente:
-
-1. Crie um arquivo .env na raiz do projeto.
-
-2. Adicione as seguintes variáveis de ambiente ao arquivo .env:
-
-Clone este repositório para o seu ambiente local:
-
-```
-REACT_APP_YOUTUBE_API_KEY=YOUR_API_KEY
-REACT_APP_YOUTUBE_CHANNEL_ID=YOUR_CHANNEL_ID
-```
-Substitua YOUR_API_KEY pela sua chave da API do YouTube e YOUR_CHANNEL_ID pelo ID do seu canal do YouTube. -->
 
 ### 3. Instalar Dependências
 
 Instale as dependências do projeto usando NPM:
 
-```
 npm install
-```
+
 
 ### 4. Rodar o Projeto
 
 Inicie o servidor de desenvolvimento para ver o projeto em funcionamento:
 
-```
 npm start
-```
+
 
 A aplicação estará disponível em http://localhost:3000.
 
-<!--**Contribuindo**
+## Licença
 
-_Se você deseja contribuir para o projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests. Certifique-se de seguir as boas práticas de desenvolvimento e fornecer uma descrição clara das alterações feitas._
+Este projeto está licenciado sob as seguintes condições:
 
-**Licença**
+- **Código**: O código do projeto está licenciado sob a Licença MIT. Você pode usar, modificar e distribuir o código livremente, desde que inclua o aviso de direitos autorais e a licença original.
+- **Vídeos**: Os vídeos são licenciados sob a Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0). Você pode compartilhar os vídeos, mas não pode usá-los para fins comerciais ou modificar o conteúdo.
 
-_Este projeto está licenciado sob a Licença MIT._
+**Contribuindo**
 
-_Se você tiver alguma dúvida ou problema, não hesite em abrir uma issue no GitHub ou entrar em contato com o mantenedor do projeto._
+_Se você deseja contribuir para o projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests para development. Certifique-se de seguir as boas práticas de desenvolvimento e fornecer uma descrição clara das alterações feitas._
 
-**_Obrigado por usar o theNettko!_** -->
+_Se você tiver alguma dúvida ou problema, não hesite em abrir uma issue no GitHub ou entrar em contato._
